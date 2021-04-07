@@ -1,0 +1,24 @@
+{
+  "name": "restaurant-page",
+  "version": "1.0.0",
+  "description": "The-Odin-Project Project Restaurant Pag ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IanChenBot/Restaurant-Page.git"
+  },
+  "author": "Ian Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IanChenBot/Restaurant-Page/issues"
+  },
+  "homepage": "https://github.com/IanChenBot/Restaurant-Page#readme",
+  "devDependencies": {
+    "webpack": "^5.30.0",
+    "webpack-cli": "^4.6.0"
+  }
+}
